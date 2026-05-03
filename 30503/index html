@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home - Mohd Harizul</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <h2>Harizul</h2>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="role.html">Role</a></li>
+        <li><a href="achievement.html">Achievement</a></li>
+    </ul>
+</nav>
+
+<section class="content">
+    <h1>Welcome</h1>
+    <h2>Mohd Harizul Bin Abi Hassan</h2>
+    <p>Pembantu Kawasan Gua Kelam, Perlis</p>
+
+    <img src="gua kelam name.jpg" alt="Gua Kelam">
+
+    <p>Selamat datang ke laman peribadi yang memperkenalkan individu yang terlibat dalam sektor pelancongan di Perlis.</p>
+</section>
+
+</body>
+</html>
