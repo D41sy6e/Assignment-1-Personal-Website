@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Role</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<nav>
+    <h2>Harizul</h2>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="role.html">Role</a></li>
+        <li><a href="achievement.html">Achievement</a></li>
+    </ul>
+</nav>
+
+<section class="content">
+    <h1>Role</h1>
+
+    <ul>
+        <li>Menjual tiket</li>
+        <li>Mencari laluan gua</li>
+        <li>Meneroka laluan mendaki</li>
+        <li>Menjaga kawasan gua</li>
+        <li>Membawa pelancong meneroka gua</li>
+    </ul>
+
+</section>
+
+</body>
+</html>
